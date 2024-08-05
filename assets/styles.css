@@ -1,0 +1,43 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+header{
+    background: linear-gradient(rgb(237, 229, 229),blue);
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+
+.searchBar{
+    margin-top: ;
+    /* edit search to beon the left side of the screen */
+}
+
+.display{
+    max-height: 420px;
+    max-width: 60%;
+    position: absolute; 
+    right: 10px;
+    border: 10px solid;
+    height: 28%;
+}
+
+
+section{
+    /* border: 1px solid ; */
+    max-height: 420px;
+    max-width: 70%;
+    /* position: absolute; 
+    right: 2%; 
+    top: 300px; */
+}
+.col{
+    border: 2px solid;
+    height: 150px;
+    margin: 20px;
+    max-width: 100px;  
+}
+.row{
+    justify-content: center;    
+}
